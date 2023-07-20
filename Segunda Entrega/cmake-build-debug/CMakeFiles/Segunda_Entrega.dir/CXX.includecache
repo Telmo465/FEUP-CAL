@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Algorithms/dfs.h
+../Graph/Graph.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/Graph.h
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Algorithms/dijkstra.h
+queue
+-
+../Graph/Graph.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/Graph.h
+../Graph/MutablePriorityQueue.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/MutablePriorityQueue.h
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Files/FileReader.h
+string
+-
+../Graph/Graph.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/Graph.h
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/Graph.h
+vector
+-
+string
+-
+MutablePriorityQueue.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/MutablePriorityQueue.h
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/MutablePriorityQueue.h
+vector
+-
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Menus/Menu.h
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Menus/Utils.h
+../Graph/Graph.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Graph/Graph.h
+
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/main.cpp
+iostream
+-
+fstream
+-
+chrono
+-
+Menus/Menu.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Menus/Menu.h
+Menus/Menu.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Menus/Menu.h
+Menus/Utils.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Menus/Utils.h
+Files/FileReader.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Files/FileReader.h
+Algorithms/dijkstra.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Algorithms/dijkstra.h
+Algorithms/dfs.h
+/home/davidrocha/Desktop/Faculdade/CAL-PROJ/Segunda Entrega/Algorithms/dfs.h
+

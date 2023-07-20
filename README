@@ -1,0 +1,5 @@
+Dependências: GraphViewer, Mapas
+
+Compilação:
+A pasta do programa corresponde a um projeto CLion desenvolvido em Linux. Caso se pretenda corrê-lo em Windows terá que ser descomentada 
+uma linha presente no ficheiro CMakeLists.txt. De seguida, apenas é necessário executar "Run" para compilar e executar.
